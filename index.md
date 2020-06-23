@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Duc Viet's CV
 ---
-# Isaac Newton
+# Viet Hoang Duc
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
@@ -60,7 +60,7 @@ Associate, *French Academy of Science*, Paris, France
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
-`1669`
+1669
 Lectiones opticæ.
 
 etc. etc. etc.
